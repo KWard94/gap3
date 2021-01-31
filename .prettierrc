@@ -15,7 +15,5 @@
    "tabWidth": 3,
    "trailingComma": "none",
    "useTabs": false,
-   "vueIndentScriptAndStyle": false,
-   "filepath": "/home/fahim/dev/sei/projects/gap3/.prettierrc",
-   "parser": "json"
+   "vueIndentScriptAndStyle": false
 }
